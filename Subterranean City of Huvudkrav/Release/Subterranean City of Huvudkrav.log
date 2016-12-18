@@ -1,0 +1,25 @@
+﻿Build started 2013-04-27 12:52:30.
+     1>Project "C:\downloads\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\downloads\Subterranean City of Huvudkrav\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Subterranean City of Huvudkrav.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp Game.cpp GraphicsCore.cpp Input.cpp Main.cpp Object3D.cpp
+         Camera.cpp
+     1>c:\downloads\subterranean city of huvudkrav\subterranean city of huvudkrav\Resource.h(3): fatal error C1083: Cannot open include file: 'D3DX11.h': No such file or directory
+         Game.cpp
+     1>c:\downloads\subterranean city of huvudkrav\subterranean city of huvudkrav\Resource.h(3): fatal error C1083: Cannot open include file: 'D3DX11.h': No such file or directory
+         GraphicsCore.cpp
+     1>c:\downloads\subterranean city of huvudkrav\subterranean city of huvudkrav\Resource.h(3): fatal error C1083: Cannot open include file: 'D3DX11.h': No such file or directory
+         Input.cpp
+     1>c:\downloads\subterranean city of huvudkrav\subterranean city of huvudkrav\Resource.h(3): fatal error C1083: Cannot open include file: 'D3DX11.h': No such file or directory
+         Main.cpp
+     1>c:\downloads\subterranean city of huvudkrav\subterranean city of huvudkrav\Resource.h(3): fatal error C1083: Cannot open include file: 'D3DX11.h': No such file or directory
+         Object3D.cpp
+     1>c:\downloads\subterranean city of huvudkrav\subterranean city of huvudkrav\Resource.h(3): fatal error C1083: Cannot open include file: 'D3DX11.h': No such file or directory
+     1>Done Building Project "C:\downloads\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.57

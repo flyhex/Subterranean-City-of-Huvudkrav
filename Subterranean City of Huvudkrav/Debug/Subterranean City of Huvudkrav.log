@@ -1,0 +1,81 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\deferred.fxo
+  Performing Custom Build Tools
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\terrain.fx(121,35): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\terrain.fx(123,20): warning X3206: implicit truncation of vector type
+  
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\terrain.fxo
+  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\resource.fxo
+  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\skybox.fxo
+  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\tangent.fxo
+  Performing Custom Build Tools
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\lighting.fx(152,10): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\lighting.fx(181,10): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\lighting.fxo
+  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\model.fxo
+  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\tessellation.fxo
+  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\shadowmap.fxo
+  Performing Custom Build Tools
+lighting.fx(152,10): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+lighting.fx(181,10): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(77,37): warning X3206: implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(100,26): warning X3206: implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(116,32): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(120,32): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(124,32): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(128,32): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(146,14): warning X3206: implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(159,9): warning X3206: implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(176,8): warning X3206: implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(179,8): warning X3206: implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(183,8): warning X3206: implicit truncation of vector type
+C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\Shaders\water.fx(236,33): warning X3206: implicit truncation of vector type
+  
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\water.fxo
+  Performing Custom Build Tools
+lighting.fx(152,10): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+lighting.fx(181,10): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Subterranean City of Huvudkrav\dof.fxo
+  Subterranean City of Huvudkrav.vcxproj -> C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Debug\Subterranean City of Huvudkrav.exe
+  Subterranean City of Huvudkrav.vcxproj -> C:\Users\newpurple\Documents\Visual Studio 2015\Projects\Subterranean City of Huvudkrav\Debug\Subterranean City of Huvudkrav.pdb (Full PDB)
